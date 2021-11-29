@@ -1,0 +1,65 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+}
+header{
+display: flex;
+justify-content: center;
+    width: 100%;
+    height: 10%;
+background-color: rgba(16, 71, 107, 0.938);
+color: white;
+font-size: x-large;
+}
+.margin_auto{
+    margin: auto;
+}
+.dflex{
+    display: flex;
+    flex-flow: wrap nowrap;
+}
+.pad_4{
+    padding: 4%;
+}
+.article3{
+display: flex;
+flex-flow: column nowrap;
+}
+.width1{
+    width: 20%;
+}
+.width2{
+    width: 20%;
+}
+.width100{
+    width: 100%;
+}
+.width3{
+    width: 60%;
+}
+.margin1{
+margin: 1%;
+}
+.jcontent{
+    justify-content: space-around;
+}
+div > button{
+    width: 15%;
+}
+.bg_gray{
+    background-color: rgb(201, 201, 201);
+}
+.bg_gray2{
+    background-color: rgb(235, 230, 230);
+}
+.pdarticle{
+    padding: 1% 1% 4% 1%;
+}
+.pdabajo{
+    padding-bottom: 5%;
+}
